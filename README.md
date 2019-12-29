@@ -1,0 +1,2 @@
+# Rolling-Dice-Game-using-javascript
+This rolling dice game is build using HTML5, CSS3, JavaScript. There are 2 players. Each player gets the turn to roll the dice. If if dice gets one than score remains unchanged else the individual score gets added to the players total score. The player whose total score reaches greater than 100 first is declared as winner. If a player get's 6 twice on dice his or her score gets reset.
